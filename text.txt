@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 one 创建了text.txt文件
-=======
 two 也创建了一个名为text.txt的文件
->>>>>>> two
