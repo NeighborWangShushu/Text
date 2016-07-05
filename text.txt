@@ -1,3 +1,4 @@
 one 创建了text.txt文件
 two 也创建了一个名为text.txt的文件
 one 创建了一个名叫one的分支,并在这个分支中对text.txt进行了编辑
+one 中合并了one分支的内容,并在合并之后对该分支进行了删除操作
